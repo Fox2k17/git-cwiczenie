@@ -1,4 +1,5 @@
 Jakis Tekst 1
-Jakis Tekst 2
+Zmieniony Tekst 2
 Jakis Tekst 3
 Jakis Tekst 4
+Nowy Tekst 5
